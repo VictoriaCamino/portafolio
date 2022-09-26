@@ -5,7 +5,7 @@ import { motion } from "framer-motion"
 const Header = () => {
   return (
     <div className='header-wrapper'>
-        <div className='main-info'>
+        <div className='main-info container'>
         <motion.div 
                 initial={{x:500}}
                 transition={{duration:1}}

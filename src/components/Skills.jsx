@@ -26,7 +26,7 @@ const Skilss = () => {
         x:0,
         transition: {
           type:'spring',
-          duration:2
+          duration:1
         }
       })
     }

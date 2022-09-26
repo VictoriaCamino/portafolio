@@ -53,6 +53,12 @@ nav ul li{
   opacity: 50%;
   pad: 0;
 }
+@media (max-width:768px){
+  .line-horizontal{
+    width: 17rem;
+  }
+
+}
 /* ----------------- HEADER --------------------- */
 .bg-header {
   position: relative;
@@ -110,7 +116,12 @@ nav ul li{
     width:19rem;
     height: 19rem;
   }
+  .main-info h1, .perfil {
+    padding:0 3rem;
+  }
 }
+
+
 
 
 
