@@ -31,7 +31,7 @@ const Skilss = () => {
       })
     }
     if(!inView){
-      animation.start({x:-280})
+      animation.start({x:-290})
     }
 
   }, [inView])
