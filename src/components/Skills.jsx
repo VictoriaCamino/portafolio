@@ -89,7 +89,7 @@ const Skilss = () => {
           <div className="card text-center d-flex align-items-end border-0 mb-5">
             <div className="card-body  bg-card">
               <h5 className="card-title fs-1 mb-3">Developer skills</h5>
-              <p className="card-text text-light fs-5 pb-3">Conocimientos en HTML/CSS, Javascript y React.js. Hago aplicaciones web responsivas con distintos frameworks pero mi favorito es Bootstrap</p>
+              <p className="card-text text-light fs-5 pb-3">Conocimientos en HTML/CSS, Javascript, React.js y React Native. Hago aplicaciones web responsivas con distintos frameworks pero mi favorito es Bootstrap</p>
             </div>
           </div>
         </div>
